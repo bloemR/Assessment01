@@ -1,4 +1,4 @@
-# Assessment01
+# Assessment Web
 CIB DIGITAL TECH – QA AUTOMATION ASSESSMENT
 
 Task 2 - Web:
